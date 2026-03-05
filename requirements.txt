@@ -1,6 +1,5 @@
 # RAGnify — Requirements
 # By Nayyab Malik
-# Generated from chatbot_complete_backend.py + chatbot_complete_frontend.py
 
 # ── Core UI ───────────────────────────────────────────────────────────────────
 streamlit>=1.35.0
